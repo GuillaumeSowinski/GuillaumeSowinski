@@ -3,7 +3,7 @@
 
 My name is Guillaume, 
 <br />
-I'm a 26-year-old software developer with a passion for building scalable, efficient and innovative solutions.
+I'm a 27-year-old software developer with a passion for building scalable, efficient and innovative solutions.
 <br />
 I focus on continuously refining my expertise and expanding my knowledge across a variety of modern technologies.
 
